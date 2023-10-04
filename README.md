@@ -2,4 +2,4 @@
 
 
 
-Click to visit website: file:///Users/danielgarrido/Desktop/Prelim%20Garrido/index.html
+Click to visit website: https://github.com/Baloyski/Prelim_GARRIDO.git
